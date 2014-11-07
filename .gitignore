@@ -1,0 +1,10 @@
+.idea
+.sync
+assets
+connectors
+core
+manager
+phpMyAdmin
+config.core.php
+ht.access
+index.php
